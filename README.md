@@ -1,7 +1,7 @@
-## Hello world👋
-Data analyst proficient in EDA, regression, Power Query, Power Pivot, and Power BI. Clean. Predict. Visualize. Ready.
+
+A Data analyst proficient in EDA, regression, Power Query, Power Pivot, and Power BI. Clean. Predict. Visualize. Ready to work.
 <!--
-**KINGSINA-ANALYST/KINGSINA-ANALYST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KINGSINA-ANALYST/KINGSINA-ANALYST** 
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... any data analysis job
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...www.linkedin.com/in/sina-seun-adebowale-88bb96224
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
